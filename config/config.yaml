@@ -64,4 +64,3 @@ api:
 monitoring:
   prometheus_port: 9090
   log_level: "INFO"
-EOF

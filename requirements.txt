@@ -1,0 +1,27 @@
+# machine learning and artificial intelligence
+numpy
+pandas
+scikit-learn
+xgboost
+
+# accelerated computing
+torch --index-url https://download.pytorch.org/whl/cpu
+
+# api
+flask 
+flask-restful
+
+# web3 and blockchain
+requests
+web3
+
+# graph and visualization
+networkx
+matplotlib
+seaborn
+
+# miscellanious
+python-dotenv
+pyyaml
+jupyter
+notebook
